@@ -10,5 +10,10 @@ public class Vd3 {
 			System.out.println("Ký tự c là số");
 		else
 			System.out.println("Ký tự c không phải là số");
+		
+		
+		System.out.println("Chiều dài ký tự chuỗi x là " + x.length());
+		System.out.println("Ký tự thứ 2 trong chuỗi x là " + x.charAt(1)); // ký tự tại chỉ số 1
+		
 	}
 }
