@@ -9,13 +9,13 @@ public class Bai4_2 {
         int x = sc.nextInt();
 
         if (x < 2) {
-            System.out.println("Là số nguyên tố");
+            System.out.printf("Số %d không là số nguyên tố%n", x);
             return;
         }
 
         for (int i = 2; i <= Math.sqrt(x); i++) {
             if (x%i==0){
-                System.out.println("Không là số nguyên tố");
+                System.out.printf("Số %d không là số nguyên tố%n", x);
                 return;
             }
         }
