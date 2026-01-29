@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Bai08M1_KeThua_DaHinh" />
-        <module name="Bai07M1_DoiTuong" />
         <module name="Bai05M1_Mang" />
+        <module name="Bai08M1_KeThua_DaHinh" />
+        <module name="Bai09M1_Collection" />
+        <module name="Bai07M1_DoiTuong" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

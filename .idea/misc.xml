@@ -7,10 +7,11 @@
         <option value="$PROJECT_DIR$/Bai05M1_Mang/pom.xml" />
         <option value="$PROJECT_DIR$/Bai07M1_DoiTuong/pom.xml" />
         <option value="$PROJECT_DIR$/Bai08M1_KeThua_DaHinh/pom.xml" />
+        <option value="$PROJECT_DIR$/Bai09M1_Collection/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="azul-17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="azul-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/classes" />
   </component>
 </project>
