@@ -96,6 +96,6 @@ public class Bai8_2 {
             switch (choice) {
                 case 1:
             }
-        } while (choice != 4)
+        } while (choice != 4);
     }
 }
