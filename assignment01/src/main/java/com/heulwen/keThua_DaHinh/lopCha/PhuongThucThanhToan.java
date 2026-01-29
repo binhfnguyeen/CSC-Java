@@ -5,7 +5,7 @@ public class PhuongThucThanhToan {
     private String ngayGiaoDich;
 
     public PhuongThucThanhToan(){
-        soTien=0.0;
+        soTien= (Double) 0.0;
         ngayGiaoDich="";
     }
 

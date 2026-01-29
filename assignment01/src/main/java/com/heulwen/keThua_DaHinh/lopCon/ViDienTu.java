@@ -20,6 +20,6 @@ public class ViDienTu extends PhuongThucThanhToan {
 
     @Override
     public void hienThiThongTin() {
-        System.out.printf("Ví điện tử %s : %.2f VND vào ngày %s qua ngân hàng %s%n", loaiVi, getSoTien(), getNgayGiaoDich());
+        System.out.printf("Ví điện tử %s : %.2f VND vào ngày %s%n", loaiVi, getSoTien(), getNgayGiaoDich());
     }
 }
