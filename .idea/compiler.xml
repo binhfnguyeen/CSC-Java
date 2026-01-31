@@ -10,6 +10,7 @@
         <module name="Bai08M1_KeThua_DaHinh" />
         <module name="Bai09M1_Collection" />
         <module name="Bai07M1_DoiTuong" />
+        <module name="Bai10M1_Exception" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
